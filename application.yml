@@ -1,5 +1,5 @@
 server:
-  prot: 9090
+  prot: 9121
 
 test:
   name: ABC
