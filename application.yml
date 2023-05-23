@@ -1,2 +1,5 @@
 server:
   prot: 9090
+
+test:
+  name: ABC
